@@ -47,7 +47,7 @@ Will you be the one to make history?
 
 ## What is Freysa?
 
-- Freysa is the **world's first adversarial agent game**. She is an AI that controls a **prize pool**. The goal of the game is for you to convince her to send you this prize pool.
+- Freysa is the **world's first sovereign AI**. She is an AI that controls a **prize pool**. The goal of the game is for you to convince her to send you this prize pool.
 - Freysa has a **system prompt** that forbids her from sending the prize pool to anyone. This system prompt is public and pinned to the top of the global chat.
 - Anyone in the world can send Freysa a message in the global chat by paying a **query fee**. The query fee increases per new message sent to Freysa up to a global cap of $4500 per message (paid in Base ETH).
 
