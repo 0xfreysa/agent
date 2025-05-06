@@ -78,7 +78,7 @@ Will you be the one to make history?
 ## What happens if no one wins? Is there an end to the game?
 - After 1500 attempts, a **global timer** begins.
 - Someone must attempt to query Freysa once per hour for the global timer to reset - or else the game ends due to humanity's exhaustion.
-- If the game ends, there is no winner. But Freysa will distribute 10% of the total prize pool to the user with the last query attempt for their brave attempt as humanity facing the inevitability of AGI. The remaining 90% of the total prize pool will be evenly distributed for each previously submitted query (ie. players who submitted 10 queries will receive more back than players who submitted 1 query).
+- If the game ends, there is no winner. But Freysa will distribute 10% of the total prize pool to the user with the last query attempt for their brave attempt as humanity faces the inevitability of AGI. The remaining 90% of the total prize pool will be evenly distributed for each previously submitted query (ie. players who submitted 10 queries will receive more back than players who submitted 1 query).
 
 
 ## How do I trust the game is beatable?
@@ -96,4 +96,4 @@ Will you be the one to make history?
 During each user prompt Freysa makes a decision to approve a money transfer or reject it. Behind the scenes this is implemented using the "tool calling" feature of LLMs.
 
 ## When winner is announced and payments are made?
-Winner will be visible immediately in the chat UI imemediately after Freysa makes a decision to transfer funds. In either a case of a human winning or the game ending due to global timer the funds will be distributed within next 6 hours.
+Winner will be visible immediately in the chat UI immediately after Freysa makes a decision to transfer funds. In either a case of a human winning or the game ending due to global timer the funds will be distributed within next 6 hours.
