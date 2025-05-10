@@ -1,14 +1,15 @@
-import TelegramBot from "node-telegram-bot-api";
+"node-telegram
+ = process.env.TELEGRAM_BOT_TOKEN;
+= process.env.TELEGRAM_CHANNEL_ID;
 
-const botToken = process.env.TELEGRAM_BOT_TOKEN;
-const channelId = process.env.TELEGRAM_CHANNEL_ID;
+TelegramBot
 
-const bot = new TelegramBot(botToken);
+ebroadcastTelegram(message: string) {
+  
+    bot.sendMessage(channelId, message);
+    {
 
-export async function broadcastTelegram(message: string) {
-  try {
-    await bot.sendMessage(channelId, message);
-    return {
+  
       success: true,
       message: "Message sent successfully",
     };
